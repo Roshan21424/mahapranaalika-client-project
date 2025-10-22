@@ -1,0 +1,27 @@
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+body {
+  background-color: #f5f2f5; /* Soft white-teal color */
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Poppins', sans-serif; /* Ensuring consistency */
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+.animate-blink {
+  display: inline-block;
+  animation: blink 1s infinite;
+}
+body{
+  margin:0;
+}
+
