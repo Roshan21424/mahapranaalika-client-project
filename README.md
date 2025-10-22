@@ -1,4 +1,4 @@
-# Infravue — Construction & Interiors Web Platform
+# Maha Pranaalika - business and startup incubation company
 
 A **modern, responsive React web platform** for Maha Pranaalika, a startup incubation company helping entrepreneurs grow and scale their businesses.
 
