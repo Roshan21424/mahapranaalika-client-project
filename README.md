@@ -18,12 +18,6 @@ A **modern, responsive React web platform** for Maha Pranaalika, a startup incub
 
 ---
 
-## 💼 About the Client
-*Infravue* is a leading construction and interior design company with a rich background in architecture, design, and on-site execution.  
-The web app was developed to present their services, gallery, and contact modules in a professional digital format.
-
----
-
 ## 🎯 My Role
 As a *Freelance React Developer*, I was responsible for:
 - Designing and implementing the entire frontend UI.
